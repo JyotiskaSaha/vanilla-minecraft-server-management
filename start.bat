@@ -28,7 +28,7 @@ color 73
 java ^
 -Xmx2G ^
 -Xms2G ^
--XX:SoftMaxHeapSize=1G ^
+-XX:SoftMaxHeapSize=4M ^
 -jar ^
 server.jar ^
 --bonusChest ^
